@@ -68,19 +68,9 @@ Some of the questions explored in this project include:
 * Which stores have better delivery performance?
 * What factors are affecting customer satisfaction?
 
-##  Dashboard Preview
-
-### Main Dashboard
-
-![Main Dashboard](<img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/39821245-7180-40bb-94e2-d27567ed3953" />
-)
-
-### Store Analysis
-
-![Store Dashboard](Screenshots/store_dashboard.png)
 
 
-## 💡 Business Insights
+##  Business Insights
 
 The dashboard helps identify patterns in sales, customer satisfaction, delivery performance, and store operations.
 
@@ -116,11 +106,6 @@ Through this project, I gained practical experience in:
 * Presenting data through meaningful visualizations
 * Converting raw data into actionable insights
 
-## 🔗 Project Links
-
-**Live Dashboard:** Add your Power BI link here
-
-**Portfolio:** Add your portfolio link here
 
 ##  About Me
 

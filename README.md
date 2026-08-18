@@ -72,15 +72,13 @@ Some of the questions explored in this project include:
 
 ### Main Dashboard
 
-![Main Dashboard](Screenshots/main_dashboard.png)
+![Main Dashboard](<img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/39821245-7180-40bb-94e2-d27567ed3953" />
+)
 
 ### Store Analysis
 
 ![Store Dashboard](Screenshots/store_dashboard.png)
 
-### Delivery & Customer Analysis
-
-![Delivery Dashboard](Screenshots/delivery_dashboard.png)
 
 ## 💡 Business Insights
 
